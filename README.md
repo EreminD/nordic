@@ -1,4 +1,7 @@
 # nordic
-Mark the greatest 
+
+## GIT Lesson
+
++ Mark the greatest 
 + Dima
 + Boris
